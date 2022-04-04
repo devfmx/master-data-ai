@@ -1,0 +1,4 @@
+Level 1: https://www.practicepython.org
+Level 2: https://www.practicepython.org + https://adventofcode.com/2020/day/1
+
+Curso recomendado: https://swcarpentry.github.io/python-novice-inflammation/
